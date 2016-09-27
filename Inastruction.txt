@@ -1,0 +1,5 @@
+1. login-> user: lemon92001@gmail.com
+	   pass:123456
+2. Creat new Product from admin.
+3. Check home.
+
